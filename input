@@ -1,0 +1,36 @@
+#  .cti file of detailed mechanism
+san_diego.cti
+#  number of points to vary temperature
+10
+#  number of points to vary pressure
+2
+#  number of points to vary equivalence ratio
+18
+#  epsilon threshold
+0.10
+#  starting pressure (bar)
+1
+#  starting temperature (K)
+298
+#  starting equiv. ratio
+0.7
+#  final pressure (bar)
+150
+#  final temperature (K)
+2000
+#  final equiv. ratio
+1.5
+#  set of target species
+['CH4','O2','H2O','CO2']
+#  fuel species
+CH4
+# number of sample points
+2000
+# number of points to vary epsilon
+20
+# initial value to start epsilon variation
+0.01
+# epsilon variation pace
+0.01
+# application for DRG (1 - ignition, 2 - flamespeed)
+2
