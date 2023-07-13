@@ -1,5 +1,5 @@
 #  .cti file of detailed mechanism
-san_diego.cti
+full_mech_marinov.cti
 #  number of points to vary temperature
 10
 #  number of points to vary pressure
@@ -21,9 +21,9 @@ san_diego.cti
 #  final equiv. ratio
 1.5
 #  set of target species
-['CH4','O2','H2O','CO2']
+['c2h5oh','o2','h2o','co2']
 #  fuel species
-CH4
+c2h5oh
 # number of sample points
 2000
 # number of points to vary epsilon
